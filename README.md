@@ -1,3 +1,15 @@
+
+EsploraScratch
+==============
+
+Fork of the ScratchSensors library for use in a HackerSpace Curriculum.  
+
+Core Curriculum combines Scratch, ScratchSensor Library, Arduino IDE and the Arduino Esplora as a Gamepad/Input device.
+
+Initial added files are derived from http://community.computingatschool.org.uk/resources.1225
+
+
+
 ScratchSensors
 ==============
 Written by and Copyright Kevin Osborn 2012
